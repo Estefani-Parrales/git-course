@@ -1,0 +1,4 @@
+ Para realizar una valdiación, poner esta al inicio del método, después hacer los this y las declaraciones fijas.
+ De lo contrario, las declaraciones iniciales seguirán inmóviles y no tomará en cuenta las condiciones asignadas.
+ Para pasar un char a un String, usar el comando Character.toString ();}
+  Usar String formattype para que reciba los tipos sin importar si son mayúsculas o minúsculas,.
